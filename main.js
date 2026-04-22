@@ -103,7 +103,7 @@ await fetch("./assets/json/projects.json")
                   ${project.description}
               </p>
           
-              <a href="${project.sourceLink}" target="_blank" class="button button-flex button-small project_button">Checkout<i class="uil uil-external-link-alt button_icon checkout_button_icon"></i></a>
+              <a href="${project.sourceLink}" target="_blank" class="button button-flex button-small project_button">See More<i class="uil uil-external-link-alt button_icon checkout_button_icon"></i></a>
           
             </div>
           </div> 

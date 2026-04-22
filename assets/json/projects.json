@@ -1,33 +1,51 @@
 
 [
     {
-        "title" : "Go Green",
-        "image" : "assets/img/projects/gogreen.jpg",
-        "description": "A task based game to improve the world",
-        "sourceLink": "https://github.com/SP-XD/Go-green/tree/beta/go_green"
+        "title" : "Smart-Raport",
+        "image" : "assets/img/projects/project1.png",
+        "description": "An online vocational school grading system featuring role-based access for students and teachers.",
+        "sourceLink": "https://github.com/yoga-tirta/smart-raport"
     },
     {
-        "title" : "Fistagram",
-        "image" : "assets/img/projects/fistagram.jpg",
-        "description" : "An instagram clone based on my own UI design.",
-        "sourceLink": "https://github.com/sp-xd/fistagram"
+        "title" : "e-Bilaporah",
+        "image" : "assets/img/projects/project2.png",
+        "description" : "A web-based portal for automated administrative services and document requests for Bilaporah Village.",
+        "sourceLink": "https://github.com/yoga-tirta/surat-bilaporah"
     },
     {
-        "title": "Portfolio",
-        "image" : "assets/img/projects/portfolio.jpg",
-        "description": "My personal portfolio built using html, css & javascript.",
-        "sourceLink": "https//somnathpaul.in"
+        "title": "Heart Attack Prediction",
+        "image" : "assets/img/projects/project3.png",
+        "description": "A data mining application designed for analyzing and predicting heart disease risks.",
+        "sourceLink": "https://yogatirta-datamining.streamlit.app/"
     },
     {
-        "title": "Custom Roms & kernels",
-        "image" : "assets/img/projects/custom_rom.jpg",
-        "description": "Collection of Custom roms & Kernels I have maintained",
-        "sourceLink": "https://forum.xda-developers.com/m/sp-xd.8915320/#recent-content"
+        "title": "Hi-Tech",
+        "image" : "assets/img/projects/project4.png",
+        "description": "A frontend web design project focused on modern user interface and web programming fundamentals.",
+        "sourceLink": "https://yoga-tirta.github.io/hi-tech/"
     },
     {
-        "title": "Youtube Data Analysis",
-        "image" : "assets/img/projects/youtube_data_analysis.jpg",
-        "description": "Exploratory data analysis of trending youtube videos",
-        "sourceLink": "https://jovian.ai/somnatypaul007/trending-youtube-videos-analysis"
+        "title": "Investamas",
+        "image" : "assets/img/projects/project5.png",
+        "description": "An investment tracking platform for calculating gold value and profit growth over time.",
+        "sourceLink": "https://yoga-tirta.github.io/investamas/"
+    },
+    {
+        "title": "Perpustakaan-Dev",
+        "image" : "assets/img/projects/project6.png",
+        "description": "A digital library management platform to streamline member registration, book circulation, and reporting.",
+        "sourceLink": "https://yoga-tirta.github.io/perpus-dev/"
+    },
+    {
+        "title": "Inventaris-App",
+        "image" : "assets/img/projects/project7.png",
+        "description": "A web-based inventory management system for tracking assets, suppliers, and lending transactions.",
+        "sourceLink": "https://yoga-tirta.github.io/inventaris/"
+    },
+    {
+        "title": "Match-3 Game",
+        "image" : "assets/img/projects/project8.png",
+        "description": "A browser-based 'Jewel Crush' style puzzle game built using pure JavaScript.",
+        "sourceLink": "https://yoga-tirta.github.io/jewel-crush/"
     }
 ] 

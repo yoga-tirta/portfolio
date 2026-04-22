@@ -1076,12 +1076,12 @@ img {
 /*-------- SCROLL BAR --------*/
 ::-webkit-scrollbar {
   width: 0.6rem;
-  background-color: var(--scroll-bar-color);
+  background-color: var(--first-color-lighter);
   border-radius: 0.5rem;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--orange-1);
+  background-color: var(--first-color);
   border-radius: 0.5rem;
 }
 
